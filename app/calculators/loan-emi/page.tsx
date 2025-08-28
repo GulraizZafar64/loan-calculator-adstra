@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Calculate your monthly loan installments (EMI) instantly with a detailed breakdown and amortization schedule. Works for personal loans, home loans, car loans, and more.",
   alternates: {
-    canonical: "https://quickupdatedaily.fun/loan-emi",
+    canonical: "https://trendorastore.online/loan-emi",
   },
   openGraph: {
     title: "Loan EMI Calculator - Trendora Store",
     description:
       "Easily calculate EMI with a complete amortization schedule for personal, home, or car loans. Get detailed monthly principal and interest breakdowns.",
-    url: "https://quickupdatedaily.fun/loan-emi",
+    url: "https://trendorastore.online/loan-emi",
   },
 }
 

@@ -25,14 +25,14 @@ export const metadata: Metadata = {
   generator: "Trendora Store",
   keywords:
     "loan calculator, EMI calculator, insurance calculator, mortgage calculator, financial tools, Trendora Store",
-  authors: [{ name: "Trendora Store", url: "https://quickupdatedaily.fun" }],
+  authors: [{ name: "Trendora Store", url: "https://trendorastore.online" }],
   creator: "Trendora Store",
   publisher: "Trendora Store",
   robots: "index, follow",
   openGraph: {
     title: "Trendora Store - Free Financial Calculators & Tools",
     description: "Calculate loan EMI, insurance premiums, and mortgage payments with our free online calculators.",
-    url: "https://quickupdatedaily.fun",
+    url: "https://trendorastore.online",
     siteName: "Trendora Store",
     type: "website",
   },
@@ -54,7 +54,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geist.variable} ${manrope.variable} antialiased`}>
       <head>
-        <link rel="canonical" href="https://quickupdatedaily.fun" />
+        <link rel="canonical" href="https://trendorastore.online" />
       </head>
       <body className="font-sans">
         <MainHeader/>

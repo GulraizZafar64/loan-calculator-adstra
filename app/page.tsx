@@ -10,16 +10,20 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Trendora Store - Free Financial Calculators & Tools",
     description: "Calculate loan EMI, insurance premiums, and mortgage payments with our free online calculators.",
-    url: "https://quickupdatedaily.fun",
+    url: "https://trendorastore.online",
   },
   alternates: {
-    canonical: "https://quickupdatedaily.fun",
+    canonical: "https://trendorastore.online",
   },
 };
 
 export default function HomePage() {
   return (
     <>
+      <Script
+        type="text/javascript"
+        src="//pl27527691.effectivecpmrate.com/cd/16/7b/cd167b7e909b4f8df92d575701422d18.js"
+      />
       <HomePageClient />
     </>
   );

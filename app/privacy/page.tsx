@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     "Read Trendora Store's privacy policy. Learn how we protect your data and ensure your financial information stays secure with our calculators.",
   alternates: {
-    canonical: "https://quickupdatedaily.fun/privacy",
+    canonical: "https://trendorastore.online/privacy",
   },
 }
 

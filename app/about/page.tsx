@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     "Learn about Trendora Store's mission to provide free, accurate financial calculators.",
   alternates: {
-    canonical: "https://quickupdatedaily.fun/about",
+    canonical: "https://trendorastore.online/about",
   },
 }
 

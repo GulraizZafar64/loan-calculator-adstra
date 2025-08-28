@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Get in touch with Trendora Store for questions about our financial calculators or support. We're here to help with your financial planning needs.",
   alternates: {
-    canonical: "https://quickupdatedaily.fun/contact",
+    canonical: "https://trendorastore.online/contact",
   },
 }
 

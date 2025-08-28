@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Financial Calculators - Trendora Store",
     description:
       "Choose from our comprehensive suite of financial calculators including loan EMI, car insurance, mortgage, and credit card calculators.",
-    url: "https://quickupdatedaily.fun/calculators",
+    url: "https://trendorastore.online/calculators",
   },
 }
 
@@ -20,7 +20,7 @@ export default function CalculatorsPage() {
   return (
     <div className="min-h-screen bg-background">
       <head>
-        <link rel="canonical" href="https://quickupdatedaily.fun/calculators" />
+        <link rel="canonical" href="https://trendorastore.online/calculators" />
       </head>
 
       {/* Header */}

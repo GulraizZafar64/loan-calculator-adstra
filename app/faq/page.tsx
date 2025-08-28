@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Find answers to frequently asked questions about Trendora Store's financial calculators. Get help with loan EMI, insurance, and mortgage calculations.",
   alternates: {
-    canonical: "https://quickupdatedaily.fun/faq",
+    canonical: "https://trendorastore.online/faq",
   },
 }
 

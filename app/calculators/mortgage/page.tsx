@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "Use our free Mortgage Calculator to estimate your monthly payments, total interest, and amortization schedule. Plan your home loan with accurate calculations.",
   alternates: {
-    canonical: "https://quickupdatedaily.fun/mortgage",
+    canonical: "https://trendorastore.online/mortgage",
   },
   openGraph: {
     title: "Mortgage Calculator - Trendora Store",
     description:
       "Free Mortgage Calculator to calculate monthly payments, total interest, and detailed amortization schedule for your home loan.",
-    url: "https://quickupdatedaily.fun/mortgage",
+    url: "https://trendorastore.online/mortgage",
   },
 }
 
