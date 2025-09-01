@@ -30,11 +30,17 @@ export default function HomePageClient() {
                 Start Calculating
               </Button>
             </Link>
-            <Link href="#how-to-use">
-              <Button variant="outline" size="lg" className="text-lg px-8 bg-transparent">
-                Learn More
-              </Button>
-            </Link>
+            <Button
+              onClick={() =>
+              (window.location.href =
+                "https://www.revenuecpmgate.com/mdnszjmg5g?key=aa6628facb5b47a124e2111d7fa1c527")
+              }
+              variant="outline"
+              size="lg"
+              className="text-lg px-8 bg-transparent"
+            >
+              Learn More
+            </Button>
           </div>
         </div>
       </section>
@@ -306,7 +312,7 @@ export default function HomePageClient() {
       </section>
 
       {/* Footer */}
-    
+
     </div>
   )
 }

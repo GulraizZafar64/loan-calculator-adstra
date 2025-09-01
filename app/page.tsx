@@ -20,10 +20,10 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
-      <Script
-        type="text/javascript"
-        src="//pl27527691.effectivecpmrate.com/cd/16/7b/cd167b7e909b4f8df92d575701422d18.js"
-      />
+<script type='text/javascript' src='//pl27527691.revenuecpmgate.com/cd/16/7b/cd167b7e909b4f8df92d575701422d18.js'></script>
+<script type='text/javascript' src='//pl27536183.revenuecpmgate.com/aa/55/4e/aa554e97ef841951028bf011744940a4.js'></script>
+<script async data-cfasync="false" src="//pl27528535.revenuecpmgate.com/baa0e41441eed570b5d25659da7e0ee6/invoke.js"></script>
+<div id="container-baa0e41441eed570b5d25659da7e0ee6"></div>
       <HomePageClient />
     </>
   );

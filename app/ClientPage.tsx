@@ -13,7 +13,7 @@ export default function ClientPage() {
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
-     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 px-8">
+      <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 px-8">
 
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center space-x-2">
@@ -113,11 +113,17 @@ export default function ClientPage() {
                 Start Calculating
               </Button>
             </Link>
-            <Link href="#how-to-use">
-              <Button variant="outline" size="lg" className="text-lg px-8 bg-transparent">
-                Learn More
-              </Button>
-            </Link>
+            <Button
+              onClick={() =>
+              (window.location.href =
+                "https://www.revenuecpmgate.com/mdnszjmg5g?key=aa6628facb5b47a124e2111d7fa1c527")
+              }
+              variant="outline"
+              size="lg"
+              className="text-lg px-8 bg-transparent"
+            >
+              Learn More
+            </Button>
           </div>
         </div>
       </section>
